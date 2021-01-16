@@ -1,3 +1,3 @@
-<h1>Kubernetes Deployment</h1>
-<h2>Created Deployments and Services via CI/CD</h2>
+<h1>Kubernetes Deployment though CI/CD</h1>
+<h2>Welcome All</h2>
 
